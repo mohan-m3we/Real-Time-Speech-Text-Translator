@@ -7,6 +7,7 @@
 Translate between **English**, **Hindi**, **Tamil**, **Telugu**, **Kannada**, and **Malayalam** using text or voice input.
 
 ---
+![App Screenshot](./translator_ui.png)
 
 ---
 
